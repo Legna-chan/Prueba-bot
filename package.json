@@ -26,7 +26,7 @@
   "dependencies": {
     "@cacheable/node-cache": "1.5.2",
     "@hapi/boom": "10.0.1",
-    "@whiskeysockets/baileys": "6.7.12",
+    "@whiskeysockets/baileys": "6.7.16",
     "cfonts": "3.3.0",
     "chalk": "5.4.1",
     "lowdb": "7.0.1",
